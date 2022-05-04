@@ -1,4 +1,3 @@
-Enterprise Web Development
-
-javascript · SPA · react · APIs · front-end 
+ICT Skills 2
+javascript · SPA · react · Web APIs · front-end 
 
