@@ -1,3 +1,3 @@
 # Component hooks. React Router.
  
-Component lifecycle Hooks. Routing configuration. Routing-related props.
+Component lifecycle Hooks. Routing configuration and hooks.
