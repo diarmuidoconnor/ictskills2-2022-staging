@@ -1,1 +1,1 @@
-Project Guidelines (Recording)
+Assignment Guidelines (Recording)
