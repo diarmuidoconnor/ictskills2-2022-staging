@@ -1,3 +1,3 @@
-# Component Lifecycle. Navigation
+# Navigation & Design Patterns
  
-Component lifecycle Hooks. Routing configuration. Routing-related props.
+Adding navigation to React. Design Patterns for React Apps.
