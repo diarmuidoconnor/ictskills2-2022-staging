@@ -1,3 +1,3 @@
 Resources.
 
-The component lifecycle and routing/navigation samples.
+The Render Prop pattern sample and routing/navigation samples.
