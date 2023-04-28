@@ -1,3 +1,3 @@
-# State Management & Protected Routes.
+# Data Fetching & Caching.
  
-Patterns and techniques for managing app state. Declaring private navigation routes.
+Improve app performance with Caching in the management of server-side data.
