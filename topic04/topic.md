@@ -1,3 +1,3 @@
-#  React: Design and Routing.
+#  Patterns & Navigation (Contd.).
   
-Explore some more navigation features available in React Router. Introduction to Design patterns in relation to React app development.
+Explore some more navigation features available in React Router. Continue to explore patterns.
