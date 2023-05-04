@@ -1,3 +1,3 @@
-# React Design Patterns.
+# React App Design & Navigation (Contd.).
  
-Introduce some common patterns and techniques to improve React code design, including, the Container pattern  and Custom Hooks.
+Some further design patterns and routing techniques to consider..
